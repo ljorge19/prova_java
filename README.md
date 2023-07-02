@@ -23,7 +23,4 @@ O candidato deve ser implementar 2 desafios:
         
 
 Considerar a implementação de testes unitários.
-    
-Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: arpereira@travelexbank.com.br
 
